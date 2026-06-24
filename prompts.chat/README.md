@@ -56,6 +56,18 @@
 
 ---
 
+## Table of Contents
+
+- [What is this?](#what-is-this)
+- [The Interactive Book of Prompting](#the-interactive-book-of-prompting)
+- [Prompting for Kids](#prompting-for-kids)
+- [Self-Hosting](#self-hosting)
+- [Integrations](#integrations)
+- [MCP Server](#mcp-server)
+- [Sponsors](#sponsors)
+- [Contributors](#contributors)
+- [License](#license)
+
 ## What is this?
 
 A curated collection of **prompt examples** for AI chat models. Originally created for ChatGPT, these prompts work great with any modern AI assistant.
